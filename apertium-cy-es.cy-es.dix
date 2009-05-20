@@ -3,7 +3,7 @@
 	Dictionary:
 	Bilingual dictionary: cy-es
 	Sections: 1
-	Entries: 8801
+	Entries: 8802
 	Sdefs: 117
       
       Patterns applied:
@@ -21,7 +21,8 @@
       	cnjsub-simple (2 times)
       	cnjadv-simple (3 times)
       	adv-simple (132 times)
-      	adj-rmsint (117 times)
+      	adj-rmsint (91 times)
+      	adj-rmsintmf (27 times)
       	npant-inv-left (53 times)
 
 -->
@@ -16111,12 +16112,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>anhapus<s n="adj"/></l> 
-        <r>infeliz<s n="adj"/></r> 
+        <r>infeliz<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -21204,12 +21205,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>blaenllym<s n="adj"/></l> 
-        <r>entusiasta<s n="adj"/></r> 
+        <r>entusiasta<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -23393,12 +23394,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>caci<s n="adj"/></l> 
-        <r>caqui<s n="adj"/></r> 
+        <r>caqui<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -24878,12 +24879,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>caredig<s n="adj"/></l> 
-        <r>amable<s n="adj"/></r> 
+        <r>amable<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -38573,12 +38574,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>dewr<s n="adj"/></l> 
-        <r>valiente<s n="adj"/></r> 
+        <r>valiente<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -40465,12 +40466,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>disglair<s n="adj"/></l> 
-        <r>brillante<s n="adj"/></r> 
+        <r>brillante<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -45657,12 +45658,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>euog<s n="adj"/></l> 
-        <r>culpable<s n="adj"/></r> 
+        <r>culpable<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -47670,12 +47671,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>galluog<s n="adj"/></l> 
-        <r>capaz<s n="adj"/></r> 
+        <r>capaz<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -49452,12 +49453,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>gostyngedig<s n="adj"/></l> 
-        <r>humilde<s n="adj"/></r> 
+        <r>humilde<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -50255,12 +50256,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>gwan<s n="adj"/></l> 
-        <r>débil<s n="adj"/></r> 
+        <r>débil<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -51685,12 +51686,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>gwerdd<s n="adj"/></l> 
-        <r>verde<s n="adj"/></r> 
+        <r>verde<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -53027,12 +53028,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>gwyrdd<s n="adj"/></l> 
-        <r>verde<s n="adj"/></r> 
+        <r>verde<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -53610,12 +53611,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>hapus<s n="adj"/></l> 
-        <r>feliz<s n="adj"/></r> 
+        <r>feliz<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -56294,23 +56295,23 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>ieuainc<s n="adj"/></l> 
-        <r>joven<s n="adj"/></r> 
+        <r>joven<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>ieuanc<s n="adj"/></l> 
-        <r>joven<s n="adj"/></r> 
+        <r>joven<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -56998,12 +56999,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>llachar<s n="adj"/></l> 
-        <r>brillante<s n="adj"/></r> 
+        <r>brillante<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -57284,12 +57285,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>llawen<s n="adj"/></l> 
-        <r>alegre<s n="adj"/></r> 
+        <r>alegre<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -58989,12 +58990,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>llwyd<s n="adj"/></l> 
-        <r>gris<s n="adj"/></r> 
+        <r>gris<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -59044,12 +59045,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>llwydion<s n="adj"/></l> 
-        <r>gris<s n="adj"/></r> 
+        <r>gris<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -60848,12 +60849,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>mawrion<s n="adj"/></l> 
-        <r>grande<s n="adj"/></r> 
+        <r>grande<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -60925,12 +60926,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>meddal<s n="adj"/></l> 
-        <r>suave<s n="adj"/></r> 
+        <r>suave<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -61464,12 +61465,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>melys<s n="adj"/></l> 
-        <r>dulce<s n="adj"/></r> 
+        <r>dulce<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -64896,12 +64897,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>od<s n="adj"/></l> 
-        <r>impar<s n="adj"/></r> 
+        <r>impar<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -67690,12 +67691,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>pinc<s n="adj"/></l> 
-        <r>rosa<s n="adj"/></r> 
+        <r>rosa<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -79669,6 +79670,17 @@
 
     <!-- 
 	forced 'null' restriction
+      adj-rmsintmf
+    -->
+    <e>
+      <p>
+        <l>prudd<s n="adj"/></l> 
+        <r>grave<s n="adj"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       adj-rmsint
     -->
     <e>
@@ -82166,12 +82178,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>rhwydd<s n="adj"/></l> 
-        <r>fácil<s n="adj"/></r> 
+        <r>fácil<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -82397,12 +82409,12 @@
 
     <!-- 
 	forced 'null' restriction
-      adj-rmsint
+      adj-rmsintmf
     -->
     <e>
       <p>
         <l>rhydd<s n="adj"/></l> 
-        <r>libre<s n="adj"/></r> 
+        <r>libre<s n="adj"/><s n="mf"/></r> 
       </p>
     </e>
 
