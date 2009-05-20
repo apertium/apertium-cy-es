@@ -1,0 +1,7 @@
+* text=auto !eol
+/apertium-cy-es.cy-es.dix -text
+/apertium-cy-es.cy.dix -text
+/apertium-cy-es.es.dix -text
+dev/cross-model-cy-en-es.xml -text
+dev/cross.xml -text
+dev/patterns-not-detected.xml -text
