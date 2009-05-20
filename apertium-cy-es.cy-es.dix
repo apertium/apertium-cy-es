@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: cy-es
 	Sections: 1
-	Entries: 8909
+	Entries: 8801
 	Sdefs: 117
       
       Patterns applied:
-      	default (2914 times)
+      	default (2636 times)
       	noun-basic-1 (988 times)
       	noun-basic-2 (981 times)
       	noun-basic-3 (505 times)
@@ -21,6 +21,8 @@
       	cnjsub-simple (2 times)
       	cnjadv-simple (3 times)
       	adv-simple (132 times)
+      	adj-rmsint (117 times)
+      	npant-inv-left (53 times)
 
 -->
 <dictionary>
@@ -533,17 +535,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Adam<s n="np"/><s n="ant"/></l> 
-        <r>Adam<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -566,23 +557,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Adriana<s n="np"/><s n="ant"/></l> 
-        <r>Adriana<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Adrià<s n="np"/><s n="ant"/></l> 
-        <r>Adrià<s n="np"/></r> 
+        <r>Adrià<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -676,12 +656,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Ainhoa<s n="np"/><s n="ant"/></l> 
-        <r>Ainhoa<s n="np"/></r> 
+        <r>Ainhoa<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -720,17 +700,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Aitor<s n="np"/><s n="ant"/></l> 
-        <r>Aitor<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       toploc-1
     -->
     <e>
@@ -748,17 +717,6 @@
       <p>
         <l>Alan<s n="np"/><s n="ant"/></l> 
         <r>Alan<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Alan<s n="np"/><s n="ant"/></l> 
-        <r>Alan<s n="np"/></r> 
       </p>
     </e>
 
@@ -808,17 +766,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Alba<s n="np"/><s n="ant"/></l> 
-        <r>Alba<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       toploc-1
     -->
     <e>
@@ -841,34 +788,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Albert<s n="np"/><s n="ant"/></l> 
-        <r>Albert<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Alex<s n="np"/><s n="ant"/></l> 
         <r>Alex<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Alex<s n="np"/><s n="ant"/></l> 
-        <r>Alex<s n="np"/></r> 
       </p>
     </e>
 
@@ -891,17 +816,6 @@
       <p>
         <l>Alexander<s n="np"/><s n="ant"/></l> 
         <r>Alexander<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Alexander<s n="np"/><s n="ant"/></l> 
-        <r>Alexander<s n="np"/></r> 
       </p>
     </e>
 
@@ -935,17 +849,6 @@
       <p>
         <l>Alexandra<s n="np"/><s n="ant"/></l> 
         <r>Alexandra<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Alexandra<s n="np"/><s n="ant"/></l> 
-        <r>Alexandra<s n="np"/></r> 
       </p>
     </e>
 
@@ -1023,17 +926,6 @@
       <p>
         <l>Alicia<s n="np"/><s n="ant"/></l> 
         <r>Alicia<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Alicia<s n="np"/><s n="ant"/></l> 
-        <r>Alicia<s n="np"/></r> 
       </p>
     </e>
 
@@ -1193,23 +1085,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Andrea<s n="np"/><s n="ant"/></l> 
-        <r>Andrea<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Andreu<s n="np"/><s n="ant"/></l> 
-        <r>Andreu<s n="np"/></r> 
+        <r>Andreu<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1281,17 +1162,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Anna<s n="np"/><s n="ant"/></l> 
-        <r>Anna<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -1347,17 +1217,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Anthony<s n="np"/><s n="ant"/></l> 
-        <r>Anthony<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -1369,12 +1228,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Antoni<s n="np"/><s n="ant"/></l> 
-        <r>Antoni<s n="np"/></r> 
+        <r>Antoni<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1402,12 +1261,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Antònia<s n="np"/><s n="ant"/></l> 
-        <r>Antònia<s n="np"/></r> 
+        <r>Antònia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1468,12 +1327,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Ariadna<s n="np"/><s n="ant"/></l> 
-        <r>Ariadna<s n="np"/></r> 
+        <r>Ariadna<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1864,12 +1723,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Bartomeu<s n="np"/><s n="ant"/></l> 
-        <r>Bartomeu<s n="np"/></r> 
+        <r>Bartomeu<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -1952,12 +1811,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Benet<s n="np"/><s n="ant"/></l> 
-        <r>Benet<s n="np"/></r> 
+        <r>Benet<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2029,23 +1888,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Bernard<s n="np"/><s n="ant"/></l> 
-        <r>Bernard<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Bernat<s n="np"/><s n="ant"/></l> 
-        <r>Bernat<s n="np"/></r> 
+        <r>Bernat<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2062,12 +1910,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Biel<s n="np"/><s n="ant"/></l> 
-        <r>Biel<s n="np"/></r> 
+        <r>Biel<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2161,12 +2009,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Borja<s n="np"/><s n="ant"/></l> 
-        <r>Borja<s n="np"/></r> 
+        <r>Borja<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2436,12 +2284,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Bàrbara<s n="np"/><s n="ant"/></l> 
-        <r>Bàrbara<s n="np"/></r> 
+        <r>Bàrbara<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2645,17 +2493,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Candela<s n="np"/><s n="ant"/></l> 
-        <r>Candela<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       toploc-1
     -->
     <e>
@@ -2700,23 +2537,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Carla<s n="np"/><s n="ant"/></l> 
-        <r>Carla<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Carles<s n="np"/><s n="ant"/></l> 
-        <r>Carles<s n="np"/></r> 
+        <r>Carles<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2733,17 +2559,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Carlota<s n="np"/><s n="ant"/></l> 
-        <r>Carlota<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -2755,12 +2570,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Carme<s n="np"/><s n="ant"/></l> 
-        <r>Carme<s n="np"/></r> 
+        <r>Carme<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -2783,17 +2598,6 @@
       <p>
         <l>Carolina<s n="np"/><s n="ant"/></l> 
         <r>Carolina<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Carolina<s n="np"/><s n="ant"/></l> 
-        <r>Carolina<s n="np"/></r> 
       </p>
     </e>
 
@@ -2898,17 +2702,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Catalina<s n="np"/><s n="ant"/></l> 
-        <r>Catalina<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       toploc-1
     -->
     <e>
@@ -2970,17 +2763,6 @@
       <p>
         <l>Cecilia<s n="np"/><s n="ant"/></l> 
         <r>Cecilia<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Cecilia<s n="np"/><s n="ant"/></l> 
-        <r>Cecilia<s n="np"/></r> 
       </p>
     </e>
 
@@ -3173,17 +2955,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Christopher<s n="np"/><s n="ant"/></l> 
-        <r>Christopher<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       noun-basic-2
     -->
     <e>
@@ -3261,12 +3032,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Clàudia<s n="np"/><s n="ant"/></l> 
-        <r>Clàudia<s n="np"/></r> 
+        <r>Clàudia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -3459,34 +3230,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Cristian<s n="np"/><s n="ant"/></l> 
-        <r>Cristian<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Cristina<s n="np"/><s n="ant"/></l> 
         <r>Cristina<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Cristina<s n="np"/><s n="ant"/></l> 
-        <r>Cristina<s n="np"/></r> 
       </p>
     </e>
 
@@ -3613,17 +3362,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Daniel<s n="np"/><s n="ant"/></l> 
-        <r>Daniel<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -3685,17 +3423,6 @@
       <p>
         <l>David<s n="np"/><s n="ant"/></l> 
         <r>David<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>David<s n="np"/><s n="ant"/></l> 
-        <r>David<s n="np"/></r> 
       </p>
     </e>
 
@@ -3822,34 +3549,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Dennis<s n="np"/><s n="ant"/></l> 
-        <r>Dennis<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Diego<s n="np"/><s n="ant"/></l> 
         <r>Diego<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Diego<s n="np"/><s n="ant"/></l> 
-        <r>Diego<s n="np"/></r> 
       </p>
     </e>
 
@@ -4053,12 +3758,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Eduard<s n="np"/><s n="ant"/></l> 
-        <r>Eduard<s n="np"/></r> 
+        <r>Eduard<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -4119,17 +3824,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Elena<s n="np"/><s n="ant"/></l> 
-        <r>Elena<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -4147,17 +3841,6 @@
       <p>
         <l>Elizabeth<s n="np"/><s n="ant"/></l> 
         <r>Elizabeth<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Elizabeth<s n="np"/><s n="ant"/></l> 
-        <r>Elizabeth<s n="np"/></r> 
       </p>
     </e>
 
@@ -4284,23 +3967,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Emma<s n="np"/><s n="ant"/></l> 
-        <r>Emma<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Enric<s n="np"/><s n="ant"/></l> 
-        <r>Enric<s n="np"/></r> 
+        <r>Enric<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -4312,17 +3984,6 @@
       <p>
         <l>Eric<s n="np"/><s n="ant"/></l> 
         <r>Eric<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Eric<s n="np"/><s n="ant"/></l> 
-        <r>Eric<s n="np"/></r> 
       </p>
     </e>
 
@@ -4345,17 +4006,6 @@
       <p>
         <l>Erika<s n="np"/><s n="ant"/></l> 
         <r>Erika<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Erika<s n="np"/><s n="ant"/></l> 
-        <r>Erika<s n="np"/></r> 
       </p>
     </e>
 
@@ -4389,17 +4039,6 @@
       <p>
         <l>Esther<s n="np"/><s n="ant"/></l> 
         <r>Esther<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Esther<s n="np"/><s n="ant"/></l> 
-        <r>Esther<s n="np"/></r> 
       </p>
     </e>
 
@@ -4455,17 +4094,6 @@
       <p>
         <l>Eva<s n="np"/><s n="ant"/></l> 
         <r>Eva<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Eva<s n="np"/><s n="ant"/></l> 
-        <r>Eva<s n="np"/></r> 
       </p>
     </e>
 
@@ -4576,17 +4204,6 @@
       <p>
         <l>Fernando<s n="np"/><s n="ant"/></l> 
         <r>Fernando<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Fernando<s n="np"/><s n="ant"/></l> 
-        <r>Fernando<s n="np"/></r> 
       </p>
     </e>
 
@@ -4724,12 +4341,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Francesc<s n="np"/><s n="ant"/></l> 
-        <r>Francesc<s n="np"/></r> 
+        <r>Francesc<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -4752,17 +4369,6 @@
       <p>
         <l>Francis<s n="np"/><s n="ant"/></l> 
         <r>Francis<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Francis<s n="np"/><s n="ant"/></l> 
-        <r>Francis<s n="np"/></r> 
       </p>
     </e>
 
@@ -4834,34 +4440,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Gabriel<s n="np"/><s n="ant"/></l> 
-        <r>Gabriel<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Gabriela<s n="np"/><s n="ant"/></l> 
         <r>Gabriela<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Gabriela<s n="np"/><s n="ant"/></l> 
-        <r>Gabriela<s n="np"/></r> 
       </p>
     </e>
 
@@ -4955,17 +4539,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Gemma<s n="np"/><s n="ant"/></l> 
-        <r>Gemma<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -4983,17 +4556,6 @@
       <p>
         <l>George<s n="np"/><s n="ant"/></l> 
         <r>George<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>George<s n="np"/><s n="ant"/></l> 
-        <r>George<s n="np"/></r> 
       </p>
     </e>
 
@@ -5038,17 +4600,6 @@
       <p>
         <l>Gerard<s n="np"/><s n="ant"/></l> 
         <r>Gerard<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Gerard<s n="np"/><s n="ant"/></l> 
-        <r>Gerard<s n="np"/></r> 
       </p>
     </e>
 
@@ -5175,17 +4726,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Grace<s n="np"/><s n="ant"/></l> 
-        <r>Grace<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -5296,12 +4836,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Guillem<s n="np"/><s n="ant"/></l> 
-        <r>Guillem<s n="np"/></r> 
+        <r>Guillem<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -5659,17 +5199,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Harry<s n="np"/><s n="ant"/></l> 
-        <r>Harry<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -5758,34 +5287,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Helena<s n="np"/><s n="ant"/></l> 
-        <r>Helena<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Henry<s n="np"/><s n="ant"/></l> 
         <r>Henry<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Henry<s n="np"/><s n="ant"/></l> 
-        <r>Henry<s n="np"/></r> 
       </p>
     </e>
 
@@ -5874,17 +5381,6 @@
       <p>
         <l>Hugo<s n="np"/><s n="ant"/></l> 
         <r>Hugo<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Hugo<s n="np"/><s n="ant"/></l> 
-        <r>Hugo<s n="np"/></r> 
       </p>
     </e>
 
@@ -6077,17 +5573,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Irene<s n="np"/><s n="ant"/></l> 
-        <r>Irene<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       toploc-4
     -->
     <e>
@@ -6116,17 +5601,6 @@
       <p>
         <l>Isabel<s n="np"/><s n="ant"/></l> 
         <r>Isabel<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Isabel<s n="np"/><s n="ant"/></l> 
-        <r>Isabel<s n="np"/></r> 
       </p>
     </e>
 
@@ -6264,17 +5738,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jack<s n="np"/><s n="ant"/></l> 
-        <r>Jack<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -6330,17 +5793,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jaime<s n="np"/><s n="ant"/></l> 
-        <r>Jaime<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       toploc-1
     -->
     <e>
@@ -6380,17 +5832,6 @@
       <p>
         <l>James<s n="np"/><s n="ant"/></l> 
         <r>James<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>James<s n="np"/><s n="ant"/></l> 
-        <r>James<s n="np"/></r> 
       </p>
     </e>
 
@@ -6440,34 +5881,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jan<s n="np"/><s n="ant"/></l> 
-        <r>Jan<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Jane<s n="np"/><s n="ant"/></l> 
         <r>Jane<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jane<s n="np"/><s n="ant"/></l> 
-        <r>Jane<s n="np"/></r> 
       </p>
     </e>
 
@@ -6528,12 +5947,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Jaume<s n="np"/><s n="ant"/></l> 
-        <r>Jaume<s n="np"/></r> 
+        <r>Jaume<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -6638,34 +6057,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jesús<s n="np"/><s n="ant"/></l> 
-        <r>Jesús<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Joan<s n="np"/><s n="ant"/></l> 
         <r>Joan<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Joan<s n="np"/><s n="ant"/></l> 
-        <r>Joan<s n="np"/></r> 
       </p>
     </e>
 
@@ -6704,17 +6101,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Joe<s n="np"/><s n="ant"/></l> 
-        <r>Joe<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -6726,34 +6112,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Joel<s n="np"/><s n="ant"/></l> 
-        <r>Joel<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>John<s n="np"/><s n="ant"/></l> 
         <r>John<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>John<s n="np"/><s n="ant"/></l> 
-        <r>John<s n="np"/></r> 
       </p>
     </e>
 
@@ -6776,17 +6140,6 @@
       <p>
         <l>Jon<s n="np"/><s n="ant"/></l> 
         <r>Jon<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jon<s n="np"/><s n="ant"/></l> 
-        <r>Jon<s n="np"/></r> 
       </p>
     </e>
 
@@ -6847,17 +6200,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jordi<s n="np"/><s n="ant"/></l> 
-        <r>Jordi<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -6869,23 +6211,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Jorge<s n="np"/><s n="ant"/></l> 
-        <r>Jorge<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Josep<s n="np"/><s n="ant"/></l> 
-        <r>Josep<s n="np"/></r> 
+        <r>Josep<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -6897,17 +6228,6 @@
       <p>
         <l>Joseph<s n="np"/><s n="ant"/></l> 
         <r>Joseph<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Joseph<s n="np"/><s n="ant"/></l> 
-        <r>Joseph<s n="np"/></r> 
       </p>
     </e>
 
@@ -6968,12 +6288,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Juli<s n="np"/><s n="ant"/></l> 
-        <r>Juli<s n="np"/></r> 
+        <r>Juli<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -7012,12 +6332,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Júlia<s n="np"/><s n="ant"/></l> 
-        <r>Júlia<s n="np"/></r> 
+        <r>Júlia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -7540,12 +6860,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Laia<s n="np"/><s n="ant"/></l> 
-        <r>Laia<s n="np"/></r> 
+        <r>Laia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -7595,17 +6915,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Lara<s n="np"/><s n="ant"/></l> 
-        <r>Lara<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       toploc-1
     -->
     <e>
@@ -7639,17 +6948,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Laura<s n="np"/><s n="ant"/></l> 
-        <r>Laura<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -7661,12 +6959,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Laurence<s n="np"/><s n="ant"/></l> 
-        <r>Laurence<s n="np"/></r> 
+        <r>Laurence<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -7810,17 +7108,6 @@
       <p>
         <l>Lewis<s n="np"/><s n="ant"/></l> 
         <r>Lewis<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Lewis<s n="np"/><s n="ant"/></l> 
-        <r>Lewis<s n="np"/></r> 
       </p>
     </e>
 
@@ -8046,12 +7333,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Llorenç<s n="np"/><s n="ant"/></l> 
-        <r>Llorenç<s n="np"/></r> 
+        <r>Llorenç<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -8079,12 +7366,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Lluís<s n="np"/><s n="ant"/></l> 
-        <r>Lluís<s n="np"/></r> 
+        <r>Lluís<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -8101,12 +7388,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Llúcia<s n="np"/><s n="ant"/></l> 
-        <r>Llúcia<s n="np"/></r> 
+        <r>Llúcia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -8156,17 +7443,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Louis<s n="np"/><s n="ant"/></l> 
-        <r>Louis<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -8195,17 +7471,6 @@
       <p>
         <l>Lucas<s n="np"/><s n="ant"/></l> 
         <r>Lucas<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Lucas<s n="np"/><s n="ant"/></l> 
-        <r>Lucas<s n="np"/></r> 
       </p>
     </e>
 
@@ -8266,12 +7531,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Lídia<s n="np"/><s n="ant"/></l> 
-        <r>Lídia<s n="np"/></r> 
+        <r>Lídia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -8409,17 +7674,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Magdalena<s n="np"/><s n="ant"/></l> 
-        <r>Magdalena<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       noun-basic-2
     -->
     <e>
@@ -8530,17 +7784,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Manel<s n="np"/><s n="ant"/></l> 
-        <r>Manel<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       noun-basic-4
     -->
     <e>
@@ -8558,17 +7801,6 @@
       <p>
         <l>Marc<s n="np"/><s n="ant"/></l> 
         <r>Marc<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Marc<s n="np"/><s n="ant"/></l> 
-        <r>Marc<s n="np"/></r> 
       </p>
     </e>
 
@@ -8607,12 +7839,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Margalida<s n="np"/><s n="ant"/></l> 
-        <r>Margalida<s n="np"/></r> 
+        <r>Margalida<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -8629,23 +7861,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Margaret<s n="np"/><s n="ant"/></l> 
-        <r>Margaret<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Margarida<s n="np"/><s n="ant"/></l> 
-        <r>Margarida<s n="np"/></r> 
+        <r>Margarida<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -8657,17 +7878,6 @@
       <p>
         <l>Maria<s n="np"/><s n="ant"/></l> 
         <r>Maria<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Maria<s n="np"/><s n="ant"/></l> 
-        <r>Maria<s n="np"/></r> 
       </p>
     </e>
 
@@ -8706,23 +7916,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Mario<s n="np"/><s n="ant"/></l> 
-        <r>Mario<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Mariona<s n="np"/><s n="ant"/></l> 
-        <r>Mariona<s n="np"/></r> 
+        <r>Mariona<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -8734,17 +7933,6 @@
       <p>
         <l>Mark<s n="np"/><s n="ant"/></l> 
         <r>Mark<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Mark<s n="np"/><s n="ant"/></l> 
-        <r>Mark<s n="np"/></r> 
       </p>
     </e>
 
@@ -8783,12 +7971,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Marta<s n="np"/><s n="ant"/></l> 
-        <r>Marta<s n="np"/></r> 
+        <r>Marta<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -8820,17 +8008,6 @@
     -->
     <e>
       <p>
-        <l>Martin<s n="np"/><s n="ant"/></l> 
-        <r>Martin<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
         <l>Martin<s n="np"/><s n="cog"/></l> 
         <r>Martin<s n="np"/><s n="ant"/></r> 
       </p>
@@ -8849,12 +8026,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Martí<s n="np"/><s n="ant"/></l> 
-        <r>Martí<s n="np"/></r> 
+        <r>Martí<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -8866,17 +8043,6 @@
       <p>
         <l>Mary<s n="np"/><s n="ant"/></l> 
         <r>Mary<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Mary<s n="np"/><s n="ant"/></l> 
-        <r>Mary<s n="np"/></r> 
       </p>
     </e>
 
@@ -9190,17 +8356,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Michael<s n="np"/><s n="ant"/></l> 
-        <r>Michael<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -9234,17 +8389,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Mike<s n="np"/><s n="ant"/></l> 
-        <r>Mike<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       toploc-4
     -->
     <e>
@@ -9267,23 +8411,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Miquel<s n="np"/><s n="ant"/></l> 
-        <r>Miquel<s n="np"/></r> 
+        <r>Miquel<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Mireia<s n="np"/><s n="ant"/></l> 
-        <r>Mireia<s n="np"/></r> 
+        <r>Mireia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -9427,17 +8571,6 @@
       <p>
         <l>Morgan<s n="np"/><s n="ant"/></l> 
         <r>Morgan<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Morgan<s n="np"/><s n="ant"/></l> 
-        <r>Morgan<s n="np"/></r> 
       </p>
     </e>
 
@@ -9751,12 +8884,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Natàlia<s n="np"/><s n="ant"/></l> 
-        <r>Natàlia<s n="np"/></r> 
+        <r>Natàlia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -9817,12 +8950,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Neus<s n="np"/><s n="ant"/></l> 
-        <r>Neus<s n="np"/></r> 
+        <r>Neus<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -9905,23 +9038,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Nicolas<s n="np"/><s n="ant"/></l> 
-        <r>Nicolas<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Nicolau<s n="np"/><s n="ant"/></l> 
-        <r>Nicolau<s n="np"/></r> 
+        <r>Nicolau<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -9933,17 +9055,6 @@
       <p>
         <l>Nicole<s n="np"/><s n="ant"/></l> 
         <r>Nicole<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Nicole<s n="np"/><s n="ant"/></l> 
-        <r>Nicole<s n="np"/></r> 
       </p>
     </e>
 
@@ -10026,17 +9137,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Noelia<s n="np"/><s n="ant"/></l> 
-        <r>Noelia<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -10070,12 +9170,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Núria<s n="np"/><s n="ant"/></l> 
-        <r>Núria<s n="np"/></r> 
+        <r>Núria<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -10103,34 +9203,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Olga<s n="np"/><s n="ant"/></l> 
-        <r>Olga<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Oliver<s n="np"/><s n="ant"/></l> 
         <r>Oliver<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Oliver<s n="np"/><s n="ant"/></l> 
-        <r>Oliver<s n="np"/></r> 
       </p>
     </e>
 
@@ -10334,12 +9412,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Pau<s n="np"/><s n="ant"/></l> 
-        <r>Pau<s n="np"/></r> 
+        <r>Pau<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -10362,17 +9440,6 @@
       <p>
         <l>Paula<s n="np"/><s n="ant"/></l> 
         <r>Paula<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Paula<s n="np"/><s n="ant"/></l> 
-        <r>Paula<s n="np"/></r> 
       </p>
     </e>
 
@@ -10411,12 +9478,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Pere<s n="np"/><s n="ant"/></l> 
-        <r>Pere<s n="np"/></r> 
+        <r>Pere<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -10466,17 +9533,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Peter<s n="np"/><s n="ant"/></l> 
-        <r>Peter<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -10488,23 +9544,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Philip<s n="np"/><s n="ant"/></l> 
-        <r>Philip<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Philippe<s n="np"/><s n="ant"/></l> 
-        <r>Philippe<s n="np"/></r> 
+        <r>Philippe<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -10642,34 +9687,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Ramon<s n="np"/><s n="ant"/></l> 
-        <r>Ramon<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Raquel<s n="np"/><s n="ant"/></l> 
         <r>Raquel<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Raquel<s n="np"/><s n="ant"/></l> 
-        <r>Raquel<s n="np"/></r> 
       </p>
     </e>
 
@@ -10686,12 +9709,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Raúl<s n="np"/><s n="ant"/></l> 
-        <r>Raúl<s n="np"/></r> 
+        <r>Raúl<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -10796,17 +9819,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Richard<s n="np"/><s n="ant"/></l> 
-        <r>Richard<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -10829,34 +9841,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Robert<s n="np"/><s n="ant"/></l> 
-        <r>Robert<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Roberto<s n="np"/><s n="ant"/></l> 
         <r>Roberto<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Roberto<s n="np"/><s n="ant"/></l> 
-        <r>Roberto<s n="np"/></r> 
       </p>
     </e>
 
@@ -10890,17 +9880,6 @@
       <p>
         <l>Roger<s n="np"/><s n="ant"/></l> 
         <r>Roger<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Roger<s n="np"/><s n="ant"/></l> 
-        <r>Roger<s n="np"/></r> 
       </p>
     </e>
 
@@ -11000,17 +9979,6 @@
       <p>
         <l>Rosa<s n="np"/><s n="ant"/></l> 
         <r>Rosa<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Rosa<s n="np"/><s n="ant"/></l> 
-        <r>Rosa<s n="np"/></r> 
       </p>
     </e>
 
@@ -11203,17 +10171,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Salvador<s n="np"/><s n="ant"/></l> 
-        <r>Salvador<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -11258,34 +10215,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Samuel<s n="np"/><s n="ant"/></l> 
-        <r>Samuel<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Sandra<s n="np"/><s n="ant"/></l> 
         <r>Sandra<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Sandra<s n="np"/><s n="ant"/></l> 
-        <r>Sandra<s n="np"/></r> 
       </p>
     </e>
 
@@ -11313,34 +10248,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Santiago<s n="np"/><s n="ant"/></l> 
-        <r>Santiago<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Sara<s n="np"/><s n="ant"/></l> 
         <r>Sara<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Sara<s n="np"/><s n="ant"/></l> 
-        <r>Sara<s n="np"/></r> 
       </p>
     </e>
 
@@ -11423,12 +10336,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Sebastià<s n="np"/><s n="ant"/></l> 
-        <r>Sebastià<s n="np"/></r> 
+        <r>Sebastià<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -11467,12 +10380,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Sergi<s n="np"/><s n="ant"/></l> 
-        <r>Sergi<s n="np"/></r> 
+        <r>Sergi<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -11594,17 +10507,6 @@
       <p>
         <l>Simon<s n="np"/><s n="ant"/></l> 
         <r>Simon<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Simon<s n="np"/><s n="ant"/></l> 
-        <r>Simon<s n="np"/></r> 
       </p>
     </e>
 
@@ -11808,34 +10710,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Stephen<s n="np"/><s n="ant"/></l> 
-        <r>Stephen<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
       <p>
         <l>Steven<s n="np"/><s n="ant"/></l> 
         <r>Steven<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Steven<s n="np"/><s n="ant"/></l> 
-        <r>Steven<s n="np"/></r> 
       </p>
     </e>
 
@@ -12006,12 +10886,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Sílvia<s n="np"/><s n="ant"/></l> 
-        <r>Sílvia<s n="np"/></r> 
+        <r>Sílvia<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -12197,17 +11077,6 @@
     -->
     <e>
       <p>
-        <l>Thomas<s n="np"/><s n="ant"/></l> 
-        <r>Thomas<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
         <l>Thomas<s n="np"/><s n="cog"/></l> 
         <r>Thomas<s n="np"/><s n="ant"/></r> 
       </p>
@@ -12292,17 +11161,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Tom<s n="np"/><s n="ant"/></l> 
-        <r>Tom<s n="np"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       npant-2
     -->
     <e>
@@ -12314,12 +11172,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Tomàs<s n="np"/><s n="ant"/></l> 
-        <r>Tomàs<s n="np"/></r> 
+        <r>Tomàs<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -12589,12 +11447,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Víctor<s n="np"/><s n="ant"/></l> 
-        <r>Víctor<s n="np"/></r> 
+        <r>Víctor<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
@@ -12617,17 +11475,6 @@
       <p>
         <l>Walter<s n="np"/><s n="ant"/></l> 
         <r>Walter<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Walter<s n="np"/><s n="ant"/></l> 
-        <r>Walter<s n="np"/></r> 
       </p>
     </e>
 
@@ -12716,17 +11563,6 @@
       <p>
         <l>William<s n="np"/><s n="ant"/></l> 
         <r>William<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>William<s n="np"/><s n="ant"/></l> 
-        <r>William<s n="np"/></r> 
       </p>
     </e>
 
@@ -12826,17 +11662,6 @@
       <p>
         <l>Xavier<s n="np"/><s n="ant"/></l> 
         <r>Xavier<s n="np"/><s n="ant"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>Xavier<s n="np"/><s n="ant"/></l> 
-        <r>Xavier<s n="np"/></r> 
       </p>
     </e>
 
@@ -16241,7 +15066,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -17286,12 +16111,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>anhapus<s n="adj"/></l> 
-        <r>infeliz<s n="adj"/><s n="mf"/></r> 
+        <r>infeliz<s n="adj"/></r> 
       </p>
     </e>
 
@@ -21301,7 +20126,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -22368,7 +21193,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -22379,12 +21204,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>blaenllym<s n="adj"/></l> 
-        <r>entusiasta<s n="adj"/><s n="mf"/></r> 
+        <r>entusiasta<s n="adj"/></r> 
       </p>
     </e>
 
@@ -23039,7 +21864,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -23050,7 +21875,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -23138,7 +21963,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e c="check">
       <p>
@@ -23149,7 +21974,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -23270,7 +22095,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -23853,7 +22678,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -23864,7 +22689,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -24172,7 +22997,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -24183,7 +23008,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -24205,7 +23030,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -24568,12 +23393,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>caci<s n="adj"/></l> 
-        <r>caqui<s n="adj"/><s n="mf"/></r> 
+        <r>caqui<s n="adj"/></r> 
       </p>
     </e>
 
@@ -25041,7 +23866,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -25085,7 +23910,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -25096,7 +23921,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -26053,12 +24878,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>caredig<s n="adj"/></l> 
-        <r>amable<s n="adj"/><s n="mf"/></r> 
+        <r>amable<s n="adj"/></r> 
       </p>
     </e>
 
@@ -26284,7 +25109,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -28198,7 +27023,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -28473,7 +27298,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -29705,7 +28530,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -29749,7 +28574,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -30200,7 +29025,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -30244,7 +29069,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -30255,7 +29080,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -31113,7 +29938,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -31124,7 +29949,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -32554,7 +31379,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -34666,7 +33491,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -35271,7 +34096,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -37339,7 +36164,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -37834,7 +36659,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -38813,7 +37638,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -39748,12 +38573,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>dewr<s n="adj"/></l> 
-        <r>valiente<s n="adj"/><s n="mf"/></r> 
+        <r>valiente<s n="adj"/></r> 
       </p>
     </e>
 
@@ -40782,7 +39607,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -41321,7 +40146,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -41640,12 +40465,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>disglair<s n="adj"/></l> 
-        <r>brillante<s n="adj"/><s n="mf"/></r> 
+        <r>brillante<s n="adj"/></r> 
       </p>
     </e>
 
@@ -42355,7 +41180,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -42366,7 +41191,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -44918,7 +43743,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -46535,7 +45360,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -46832,12 +45657,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>euog<s n="adj"/></l> 
-        <r>culpable<s n="adj"/><s n="mf"/></r> 
+        <r>culpable<s n="adj"/></r> 
       </p>
     </e>
 
@@ -46942,7 +45767,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -47690,7 +46515,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -48130,7 +46955,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -48306,7 +47131,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -48845,12 +47670,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>galluog<s n="adj"/></l> 
-        <r>capaz<s n="adj"/><s n="mf"/></r> 
+        <r>capaz<s n="adj"/></r> 
       </p>
     </e>
 
@@ -48999,7 +47824,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -49362,7 +48187,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -50627,12 +49452,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>gostyngedig<s n="adj"/></l> 
-        <r>humilde<s n="adj"/><s n="mf"/></r> 
+        <r>humilde<s n="adj"/></r> 
       </p>
     </e>
 
@@ -50913,7 +49738,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -51397,7 +50222,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -51408,7 +50233,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -51430,12 +50255,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>gwan<s n="adj"/></l> 
-        <r>débil<s n="adj"/><s n="mf"/></r> 
+        <r>débil<s n="adj"/></r> 
       </p>
     </e>
 
@@ -51848,7 +50673,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -51859,7 +50684,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -52761,7 +51586,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -52860,12 +51685,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>gwerdd<s n="adj"/></l> 
-        <r>verde<s n="adj"/><s n="mf"/></r> 
+        <r>verde<s n="adj"/></r> 
       </p>
     </e>
 
@@ -53168,7 +51993,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -53179,7 +52004,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -53223,7 +52048,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -53586,7 +52411,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -54202,12 +53027,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>gwyrdd<s n="adj"/></l> 
-        <r>verde<s n="adj"/><s n="mf"/></r> 
+        <r>verde<s n="adj"/></r> 
       </p>
     </e>
 
@@ -54576,7 +53401,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -54774,7 +53599,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -54785,12 +53610,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>hapus<s n="adj"/></l> 
-        <r>feliz<s n="adj"/><s n="mf"/></r> 
+        <r>feliz<s n="adj"/></r> 
       </p>
     </e>
 
@@ -55104,7 +53929,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -56644,7 +55469,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -57469,23 +56294,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>ieuainc<s n="adj"/></l> 
-        <r>joven<s n="adj"/><s n="mf"/></r> 
+        <r>joven<s n="adj"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>ieuanc<s n="adj"/></l> 
-        <r>joven<s n="adj"/><s n="mf"/></r> 
+        <r>joven<s n="adj"/></r> 
       </p>
     </e>
 
@@ -57623,7 +56448,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -58173,12 +56998,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>llachar<s n="adj"/></l> 
-        <r>brillante<s n="adj"/><s n="mf"/></r> 
+        <r>brillante<s n="adj"/></r> 
       </p>
     </e>
 
@@ -58459,12 +57284,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>llawen<s n="adj"/></l> 
-        <r>alegre<s n="adj"/><s n="mf"/></r> 
+        <r>alegre<s n="adj"/></r> 
       </p>
     </e>
 
@@ -58943,7 +57768,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -59724,7 +58549,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -60054,7 +58879,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -60065,7 +58890,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -60164,12 +58989,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>llwyd<s n="adj"/></l> 
-        <r>gris<s n="adj"/><s n="mf"/></r> 
+        <r>gris<s n="adj"/></r> 
       </p>
     </e>
 
@@ -60219,12 +59044,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>llwydion<s n="adj"/></l> 
-        <r>gris<s n="adj"/><s n="mf"/></r> 
+        <r>gris<s n="adj"/></r> 
       </p>
     </e>
 
@@ -60384,7 +59209,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -61044,7 +59869,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -62023,12 +60848,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>mawrion<s n="adj"/></l> 
-        <r>grande<s n="adj"/><s n="mf"/></r> 
+        <r>grande<s n="adj"/></r> 
       </p>
     </e>
 
@@ -62089,7 +60914,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -62100,12 +60925,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>meddal<s n="adj"/></l> 
-        <r>suave<s n="adj"/><s n="mf"/></r> 
+        <r>suave<s n="adj"/></r> 
       </p>
     </e>
 
@@ -62628,7 +61453,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -62639,12 +61464,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>melys<s n="adj"/></l> 
-        <r>dulce<s n="adj"/><s n="mf"/></r> 
+        <r>dulce<s n="adj"/></r> 
       </p>
     </e>
 
@@ -63882,7 +62707,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -64553,7 +63378,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -64564,7 +63389,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -66060,7 +64885,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -66071,12 +64896,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>od<s n="adj"/></l> 
-        <r>impar<s n="adj"/><s n="mf"/></r> 
+        <r>impar<s n="adj"/></r> 
       </p>
     </e>
 
@@ -68865,18 +67690,18 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>pinc<s n="adj"/></l> 
-        <r>rosa<s n="adj"/><s n="mf"/></r> 
+        <r>rosa<s n="adj"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -68920,7 +67745,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -68953,7 +67778,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -80844,23 +79669,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>prudd<s n="adj"/></l> 
-        <r>grave<s n="adj"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>prudd<s n="adj"/></l> 
-        <r>grave<s n="adj"/><s n="sup"/></r> 
+        <r>grave<s n="adj"/></r> 
       </p>
     </e>
 
@@ -81075,7 +79889,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -81141,7 +79955,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -83352,12 +82166,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>rhwydd<s n="adj"/></l> 
-        <r>fácil<s n="adj"/><s n="mf"/></r> 
+        <r>fácil<s n="adj"/></r> 
       </p>
     </e>
 
@@ -83572,7 +82386,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -83583,12 +82397,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
         <l>rhydd<s n="adj"/></l> 
-        <r>libre<s n="adj"/><s n="mf"/></r> 
+        <r>libre<s n="adj"/></r> 
       </p>
     </e>
 
@@ -83693,7 +82507,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -84364,7 +83178,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -85189,7 +84003,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -85827,7 +84641,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -86124,7 +84938,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -86190,7 +85004,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -86322,7 +85136,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -87257,7 +86071,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -87268,7 +86082,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -87939,7 +86753,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -89050,7 +87864,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -89611,7 +88425,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e c="check">
       <p>
@@ -91899,7 +90713,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      adj-rmsint
     -->
     <e>
       <p>
@@ -97927,45 +96741,45 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Àlex<s n="np"/><s n="ant"/></l> 
-        <r>Àlex<s n="np"/></r> 
+        <r>Àlex<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Àngel<s n="np"/><s n="ant"/></l> 
-        <r>Àngel<s n="np"/></r> 
+        <r>Àngel<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Íker<s n="np"/><s n="ant"/></l> 
-        <r>Íker<s n="np"/></r> 
+        <r>Íker<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      npant-inv-left
     -->
     <e>
       <p>
         <l>Òscar<s n="np"/><s n="ant"/></l> 
-        <r>Òscar<s n="np"/></r> 
+        <r>Òscar<s n="np"/><s n="ant"/></r> 
       </p>
     </e>
 
